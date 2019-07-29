@@ -1,0 +1,25 @@
+.gif-img{
+    margin: 10px;
+}
+img{
+    background-color: rgb(25, 39, 230);
+    padding: 5px;
+    cursor: pointer;
+    border-color: white;
+    border-style: solid;
+    border-width: 8px;
+    
+}
+body {
+    background-image: url("../images/movie.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.btn-style {
+    margin: 10px;
+    background-color: hsl(219, 81%, 25%);
+}
+#banner {
+    background-color: skyblue;
+}
